@@ -1,0 +1,1 @@
+executable_path = 'C:/Users/xin/anaconda3/Scripts/geckodriver.exe'
